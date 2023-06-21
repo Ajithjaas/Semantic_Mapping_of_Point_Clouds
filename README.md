@@ -1,4 +1,4 @@
-# Sexy Semantic Mapping - RBE549 Homework 2
+# Semantic Mapping Of Point Clouds- RBE549 Homework 2
 
 The following commands have to be run in the terminal to install all the libraries required to run the code.
 ```json
