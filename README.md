@@ -10,7 +10,7 @@ sudo pip install open3d
 
 ## Semantically Segmeneted Images:
 <p align="center">
-  <img src="../Outputs/Semantic_Segmentation.gif" width="512">
+  <img src="Outputs/Semantic_Segmentation.gif" width="512">
 </p>
 
 ## Run the following code in the terminal to initiate Point Cloud painting and ICP:
@@ -20,7 +20,7 @@ Next we have to go the below location in the terminal:
 ```
 RBG Image:
 <p align="center">
-  <img src="../Outputs/Images/rgb_image.png" width="512">
+  <img src="Outputs/Images/rgb_image.png" width="512">
 </p>
 
 Corresponding Raw Point Cloud:
